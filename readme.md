@@ -3,4 +3,4 @@
 * Link da Pagina Dev Pricing
 > <a href="https://jlmspricing.netlify.app/">Dev Pricing</a>
 
-<img src="../devPricing/pricingDev.gif" width="1080">
+<img src="pricingDev.gif" width="1080">
